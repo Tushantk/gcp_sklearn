@@ -1,5 +1,6 @@
 USE sklearn_data;
 
+
 DROP TABLE IF EXISTS spark_data;
 DROP TABLE IF EXISTS Rec;
 DROP TABLE IF EXISTS demo2_data_prediction;
